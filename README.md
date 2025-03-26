@@ -3,7 +3,7 @@
 ![Project Demo](Screenshot/homepage.jpg)
 
 ## Overview
-Welcome to the Secure Login and Account Management System project! This terminal-based application provides a secure and efficient way to manage user accounts and authentication, implemented in C++.
+Welcome to the Secure Login and Account Management System project! This terminal-based application provides a secure and efficient way to manage user accounts and authentication, implemented in Java.
 
 ## Features
 - **User Authentication:** Secure login system to authenticate users before accessing their accounts.
