@@ -8,7 +8,7 @@ Welcome to the Secure Login and Account Management System project! This terminal
 ## Features
 - **User Authentication:** Secure login system to authenticate users before accessing their accounts.
 - **Account Creation:** Allows users to register and create new accounts with unique credentials.
-- **File Management:** Utilizes C++ file handling techniques to store user information securely.
+- **File Management:** Utilizes Java file handling techniques to store user information securely.
 - **User Profile Management:** Enables users to update their profile information and change passwords.
 - **Error Handling:** Includes robust error handling mechanisms to ensure smooth operation and security.
 
@@ -19,11 +19,11 @@ Welcome to the Secure Login and Account Management System project! This terminal
   
 ## Technologies Used
 - **C++:** Core programming language for implementation.
-- **File Management:** Utilizes C++ file handling techniques for data storage.
+- **File Management:** Utilizes Java file handling techniques for data storage.
 
 ## Installation
 1. Clone this repository.
-2. Compile the source code using a C++ compiler (e.g., g++).
+2. Compile the source code using a Java compiler (e.g., g++).
 3. Run the compiled executable file.
 
 ## Usage
