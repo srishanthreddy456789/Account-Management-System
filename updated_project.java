@@ -1,6 +1,6 @@
-import java.util.*;
-import java.io.*;
-import java.util.regex.*;
+ import java.util.*;
+ import java.io.*;
+ import java.util.regex.*;
 
 public class LoginSystem {
     private String fname, password, name, pass, date, month, year, email, number, enc;
